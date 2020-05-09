@@ -5,3 +5,7 @@ You can run the project with:
     
     npm install
     npm start
+
+To see the live demo:
+
+    react-trivia-opentdb.netlify.app
